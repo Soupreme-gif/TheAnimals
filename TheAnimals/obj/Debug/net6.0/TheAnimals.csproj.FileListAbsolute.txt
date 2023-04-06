@@ -1,0 +1,16 @@
+C:\Users\dagas\RiderProjects\TheAnimals\TheAnimals\bin\Debug\net6.0\TheAnimals.exe
+C:\Users\dagas\RiderProjects\TheAnimals\TheAnimals\bin\Debug\net6.0\TheAnimals.deps.json
+C:\Users\dagas\RiderProjects\TheAnimals\TheAnimals\bin\Debug\net6.0\TheAnimals.runtimeconfig.json
+C:\Users\dagas\RiderProjects\TheAnimals\TheAnimals\bin\Debug\net6.0\TheAnimals.dll
+C:\Users\dagas\RiderProjects\TheAnimals\TheAnimals\bin\Debug\net6.0\ref\TheAnimals.dll
+C:\Users\dagas\RiderProjects\TheAnimals\TheAnimals\bin\Debug\net6.0\TheAnimals.pdb
+C:\Users\dagas\RiderProjects\TheAnimals\TheAnimals\obj\Debug\net6.0\TheAnimals.csproj.AssemblyReference.cache
+C:\Users\dagas\RiderProjects\TheAnimals\TheAnimals\obj\Debug\net6.0\TheAnimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dagas\RiderProjects\TheAnimals\TheAnimals\obj\Debug\net6.0\TheAnimals.AssemblyInfoInputs.cache
+C:\Users\dagas\RiderProjects\TheAnimals\TheAnimals\obj\Debug\net6.0\TheAnimals.AssemblyInfo.cs
+C:\Users\dagas\RiderProjects\TheAnimals\TheAnimals\obj\Debug\net6.0\TheAnimals.csproj.CoreCompileInputs.cache
+C:\Users\dagas\RiderProjects\TheAnimals\TheAnimals\obj\Debug\net6.0\TheAnimals.dll
+C:\Users\dagas\RiderProjects\TheAnimals\TheAnimals\obj\Debug\net6.0\ref\TheAnimals.dll
+C:\Users\dagas\RiderProjects\TheAnimals\TheAnimals\obj\Debug\net6.0\TheAnimals.pdb
+C:\Users\dagas\RiderProjects\TheAnimals\TheAnimals\obj\Debug\net6.0\TheAnimals.genruntimeconfig.cache
+C:\Users\dagas\RiderProjects\TheAnimals\TheAnimals\bin\Debug\net6.0\animals.txt
