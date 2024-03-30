@@ -2,18 +2,18 @@
 
 public class Cat : Pet, ITalkable
 {
-    private int mousesKilled;
+    private int _mousesKilled;
 
     public Cat(int mousesKilled, String name) : base(name) {
-        this.mousesKilled = mousesKilled;
+        this._mousesKilled = mousesKilled;
     }
 
     public int GetMousesKilled() {
-        return mousesKilled;
+        return _mousesKilled;
     }
 
     public void AddMouse() {
-        mousesKilled++;
+        _mousesKilled++;
     }
 
     
@@ -23,6 +23,6 @@ public class Cat : Pet, ITalkable
 
     
     public String toString() {
-        return "Cat: " + "name=" + name + " mousesKilled=" + mousesKilled;
+        return "Cat: " + "name=" + name + " mousesKilled=" + _mousesKilled;
     }
 }

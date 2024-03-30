@@ -3,18 +3,18 @@
 public class FileReader
 {
 
-    private string fileName;
+    private string _fileName;
 
     public FileReader(string fileName)
     {
 
-        this.fileName = fileName;
+        this._fileName = fileName;
 
     }
 
     public void FileRead() {
 
-        using (StreamReader fileReader = new StreamReader(fileName))
+        using (StreamReader fileReader = new StreamReader(_fileName))
         {
             String line;
             try {
@@ -22,7 +22,7 @@ public class FileReader
                     Console.WriteLine(line);
                 }
             } catch (Exception e) {
-                Console.WriteLine("File Write Error: " + fileName + " " + e);
+                Console.WriteLine("File Write Error: " + _fileName + " " + e);
             }
             
             fileReader.Close();

@@ -2,15 +2,15 @@
 
 public class Dog : Pet, ITalkable
 {
-    private bool friendly;
+    private bool _friendly;
 
     public Dog(bool friendly, String name) : base(name) {
         
-        this.friendly = friendly;
+        this._friendly = friendly;
     }
 
     public bool IsFriendly() {
-        return friendly;
+        return _friendly;
     }
     
     public String Talk() {
@@ -18,6 +18,6 @@ public class Dog : Pet, ITalkable
     }
     
     public String toString() {
-        return "Dog: " + "name=" + name + " friendly=" + friendly;
+        return "Dog: " + "name=" + name + " friendly=" + _friendly;
     }
 }

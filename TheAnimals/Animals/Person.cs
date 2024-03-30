@@ -1,7 +1,7 @@
 ﻿namespace Animals.Animals;
 
 public abstract class Person {
-    private string name;
+    private string name { get; set; }
 
     public Person(string name) {
         this.name = name;

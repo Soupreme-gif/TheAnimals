@@ -9,6 +9,8 @@ FileReader outOfFile  = new FileReader("animals.txt");
 
         AnimalCreator creator = new AnimalCreator();
 
+    
+
         for(int i = 0; i < Int32.MaxValue; i++)
         {
             creator.CreateAnimal(zoo);
@@ -20,6 +22,8 @@ FileReader outOfFile  = new FileReader("animals.txt");
             {
                 break;
             }
+            
+            
 
         }
 
